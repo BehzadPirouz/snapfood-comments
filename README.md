@@ -1,5 +1,5 @@
 # Snapfood Comments Sentiment Analysis
-This Project will analyze user comments  snapfood orders using the persian library Hazm
+This Project will analyze user comments of snapfood orders using the persian library Hazm
 
 ## About This Project
 The project explored comments to:
@@ -18,4 +18,4 @@ The project explored comments to:
 ## Project Files
 - snap.ipynb the main notebook
 - snapfood.csv Raw comment data from snapfood orders
-- top_50_words.csv frequent appy / sad words 
+- top_50_words.csv frequent happy / sad words 
